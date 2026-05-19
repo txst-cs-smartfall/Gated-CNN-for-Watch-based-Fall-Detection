@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow
+tensorflow-probability
+PyWavelets
+opencv-python
+filterpy
+matplotlib
+seaborn

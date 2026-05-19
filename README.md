@@ -84,6 +84,12 @@ To stop a background run:
 pkill -f main_run.py
 ```
 
+### Notes
+
+- Ensure the dataset folders are correctly set in `main_run.py` via the `input_folder_1` and `input_folder_2` variables.
+- Model checkpoints are saved to the path defined in `checkpoint_dir`.
+- Training runs for up to 10 folds by default with early stopping enabled (patience = 10).
+
 ***
 
 ## Resources
@@ -97,8 +103,6 @@ To support reproducibility and further research, the following resources are pub
 
 ***
 
-## Notes
-
-- Ensure the dataset folders are correctly set in `main_run.py` via the `input_folder_1` and `input_folder_2` variables.
-- Model checkpoints are saved to the path defined in `checkpoint_dir`.
-- Training runs for up to 10 folds by default with early stopping enabled (patience = 10).
+## Contact
+For any questions regarding this work, please contact the corresponding author
+**Sana Alamgeer** at **sanaalamgeer (at) gmail (dot) com**.

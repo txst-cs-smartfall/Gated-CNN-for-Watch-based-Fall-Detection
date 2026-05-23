@@ -8,7 +8,7 @@ Existing deep learning approaches for wearable fall detection systems rely on se
 
 ## Read the Full Paper
 
-For more details, please refer to our full paper (preprint): [Coming soon...](#)
+For more details, please refer to our full paper (preprint): [https://arxiv.org/abs/2605.20275](https://arxiv.org/abs/2605.20275)
 
 ***
 

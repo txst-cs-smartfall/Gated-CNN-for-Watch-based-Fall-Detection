@@ -106,3 +106,16 @@ To support reproducibility and further research, the following resources are pub
 ## Contact
 For any questions regarding this work, please contact the corresponding author
 **Sana Alamgeer** at **sanaalamgeer (at) gmail (dot) com**.
+
+## Citation
+```
+@misc{alamgeer2026dontneedattentiongated,
+      title={You Don't Need Attention: Gated Convolutional Modeling for Watch-Based Fall Detection}, 
+      author={Sana Alamgeer and Ronish Kumar and Awatif Yasmin and Muhammad Irshad and Anne H. H. Ngu},
+      year={2026},
+      eprint={2605.20275},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.20275}, 
+}
+```

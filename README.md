@@ -109,7 +109,7 @@ For any questions regarding this work, please contact the corresponding author
 
 ## Citation
 ```
-@misc{alamgeer2026dontneedattentiongated,
+@misc{alamgeer2026gatedcnn,
       title={You Don't Need Attention: Gated Convolutional Modeling for Watch-Based Fall Detection}, 
       author={Sana Alamgeer and Ronish Kumar and Awatif Yasmin and Muhammad Irshad and Anne H. H. Ngu},
       year={2026},
